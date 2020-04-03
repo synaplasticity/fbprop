@@ -7,3 +7,5 @@ fbprophet examples using covaid-19 dataset
 Need to get the original and create a timeseries data set with ...
 * Column a: Label: 'ds' Data: Date
 * Column b: Label: 'y' Data: Count
+
+##### TODO : Automate the above steps
