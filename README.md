@@ -1,5 +1,9 @@
 # fbprop
 fbprophet examples using covaid-19 dataset
+
+### fb Prophet
+Install prophet - https://facebook.github.io/prophet/docs/installation.html
+
 ### Data set
 * https://github.com/CSSEGISandData/COVID-19
 
