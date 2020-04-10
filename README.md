@@ -4,6 +4,9 @@ fbprophet examples using covaid-19 dataset
 ### fb Prophet
 Install prophet - https://facebook.github.io/prophet/docs/installation.html
 
+### Start with ...
+- covaid-19-notebook.ipynb - Global confirmed cases and has the best accuracy. Do note the uncertanity increases beyond a 1 month forecast
+
 ### Data set
 * https://github.com/CSSEGISandData/COVID-19
 
