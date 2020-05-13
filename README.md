@@ -1,8 +1,14 @@
-# fbprop
-fbprophet examples using covaid-19 dataset
+# Time series forecasting including seasonality
+
+fb prophet examples using covaid-19 dataset
+
+### Preferred
+Install Anconda - https://docs.anaconda.com/anaconda/install/
+
 
 ### fb Prophet
 Install prophet - https://facebook.github.io/prophet/docs/installation.html
+
 
 ### Start with ...
 - covaid-19-notebook-global-confirmed-cases.ipynb - Global confirmed cases and has the best accuracy and completely automated. Do note the uncertanity increases beyond a 1 month forecast
